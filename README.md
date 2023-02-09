@@ -1,6 +1,6 @@
 # Legacy_portolio
 
-### [Link](https://z-bj.github.io/portolio-legacy/)
+### [Link](https://z-bj.github.io/Legacy_portfolio/)
 
 ## Made for the freeCodeCamp Responsive Web Design certification. 
 
