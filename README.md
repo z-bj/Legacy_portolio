@@ -1,6 +1,8 @@
 # Legacy_portolio
 
-### Made for the freeCodeCamp Responsive Web Design certification. 
+###[Link](https://z-bj.github.io/portolio-legacy/)
+
+## Made for the freeCodeCamp Responsive Web Design certification. 
 
 > Build a Personal Portfolio Webpage
 Objective: Build an app that is functionally similar to https://personal-portfolio.freecodecamp.rocks
