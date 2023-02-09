@@ -1,4 +1,4 @@
-![banner](https://github.com/z-bj/Legacy_portolio/blob/master/Legacy_portfolio.png)
+[![banner](https://github.com/z-bj/Legacy_portolio/blob/master/Legacy_portfolio.png)](z-bj.github.io/Legacy_portolio/)
 
 # Legacy_portolio
 ### Project made for the freeCodeCamp Responsive Web Design certification. 
