@@ -10,3 +10,6 @@ You can find further information on the projects in the link below.
 
 [Portfolio User tory](https://github.com/z-bj/Legacy_portolio/blob/master/User_story.md)
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
