@@ -27,7 +27,7 @@ The legacy portfolio includes several features that demonstrate my web developme
 
 ## Usage
 
-To view the legacy portfolio, simply open the `index.html` file in your web browser. You can also view the portfolio online by visiting the [GitHub Pages site](https://yourusername.github.io/your-repository-name/) associated with this repository.
+To view the legacy portfolio, simply open the `index.html` file in your web browser. You can also view the portfolio online by visiting the [GitHub Pages site](https://z-bj.github.io/Legacy_portolio/) associated with this repository.
 
 ## Contributing
 
@@ -39,7 +39,5 @@ This project is licensed under the [MIT license](https://opensource.org/licenses
 
 ### [Visit it](https://z-bj.github.io/Legacy_portolio/)
 
-[User tory](https://github.com/z-bj/Legacy_portolio/blob/master/User_story.md)
-## License
+### [User tory](https://github.com/z-bj/Legacy_portolio/blob/master/User_story.md)
 
-[MIT](https://choosealicense.com/licenses/mit/)
