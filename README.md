@@ -11,10 +11,11 @@ The legacy portfolio showcases my web development skills and experience through 
 The portfolio includes the following pages:
 
 -   A homepage with a brief introduction and a call to action for potential employers or clients to contact me.
--   A "About Me" page with information about my professional background, education, and skills.
--   A "Portfolio" page with links to some of my recent web development projects, including descriptions and screenshots.
--   A "Contact" page with a form for potential employers or clients to contact me directly.
--   A "Blog" page with articles and updates about my work and experiences in web development.
+-   A "About" with a bio, and some informations about my professional background, education, and skills.
+-   A "Services" What I do for my Partners?
+-   A "Projects" page with links to some of my recent web development projects, including descriptions and screenshots.
+-   A "Contact" page with a form for potential employers or clients to contact me directly via calendly.
+-   A "Questions" a section to overcome the objections of my future partners and sell my service.
 
 ## Features
 
