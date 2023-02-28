@@ -1,6 +1,6 @@
 [![banner](https://github.com/z-bj/Legacy_portolio/blob/master/Legacy_portfolio.png)](https://z-bj.github.io/Legacy_portolio/)
 
-# Legacy Web Development Portfolio
+# Legacy Portfolio
 
 This GitHub repository contains my legacy web development portfolio, which I created as part of the freeCodeCamp Responsive Web Design Certification. The objective of the project was to use HTML and plain CSS to build five responsive web pages that fulfill freeCodeCamp's user stories.
 
