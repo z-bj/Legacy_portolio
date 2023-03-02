@@ -5,6 +5,8 @@
 This GitHub repository contains my legacy web development portfolio, which I created as part of the freeCodeCamp Responsive Web Design Certification. The objective of the certification was to use HTML and plain CSS to build five responsive web pages that fulfill freeCodeCamp's user stories.
 This is the fifth.
 
+[**Visit it**](https://z-bj.github.io/Legacy_portolio/)
+
 ## Description
 
 The portfolio showcases my web responsive development skills and experience through five web pages, each with a different focus. The pages are designed to be visually appealing, responsive, and easy to navigate.
@@ -37,8 +39,6 @@ While contributions to this project are not currently accepted, feedback is alwa
 ## License
 
 This project is licensed under the [MIT license](https://opensource.org/licenses/MIT), which means you can use, modify, and distribute the code for any purpose, as long as you include the original copyright and license notice.
-
-### [Visit it](https://z-bj.github.io/Legacy_portolio/)
 
 ### [User tory](https://github.com/z-bj/Legacy_portolio/blob/master/User_story.md)
 
