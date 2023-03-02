@@ -2,7 +2,9 @@
 
 # Legacy Portfolio
 
-This GitHub repository contains my legacy web development portfolio, which I created as part of the freeCodeCamp Responsive Web Design Certification. The objective of the certification was to use HTML and plain CSS to build five responsive web pages that fulfill freeCodeCamp's user stories.
+### A small portfolio built on the fly which will serve as a base from which I will build a pro version
+
+>This GitHub repository contains my legacy web development portfolio, which I created as part of the freeCodeCamp Responsive Web Design Certification. The objective of the certification was to use HTML and plain CSS to build five responsive web pages that fulfill freeCodeCamp's user stories.
 This is the fifth.
 
 [**Visit it**](https://z-bj.github.io/Legacy_portolio/)
