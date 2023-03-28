@@ -1,26 +1,46 @@
-# Legacy_portolio
+[![banner](https://github.com/z-bj/Legacy_portolio/blob/master/Legacy_portfolio.png)](https://z-bj.github.io/Legacy_portolio/)
 
-### [Link](https://z-bj.github.io/Legacy_portolio/)
+# Legacy Portfolio
 
-## Made for the freeCodeCamp Responsive Web Design certification. 
+### A small portfolio built on the fly which will serve as a base from which I will build a pro version
 
-> Build a Personal Portfolio Webpage
-Objective: Build an app that is functionally similar to https://personal-portfolio.freecodecamp.rocks
+>This GitHub repository contains my legacy web development portfolio, which I created as part of the freeCodeCamp Responsive Web Design Certification. The objective of the certification was to use HTML and plain CSS to build five responsive web pages that fulfill freeCodeCamp's user stories.
+This is the fifth.
 
-User Stories:
+[**Visit it**](https://z-bj.github.io/Legacy_portolio/)
 
-- Your portfolio should have a welcome section with an id of welcome-section
-- The welcome section should have an h1 element that contains text
-- Your portfolio should have a projects section with an id of projects
-- The projects section should contain at least one element with a class of project-tile to hold a project
-- The projects section should contain at least one link to a project
-- Your portfolio should have a navbar with an id of navbar
-- The navbar should contain at least one link that you can click on to navigate to different sections of the page
-- Your portfolio should have a link with an id of profile-link, which opens your GitHub or freeCodeCamp profile in a new tab
-- Your portfolio should have at least one media query
-- The height of the welcome section should be equal to the height of the viewport
-- The navbar should always be at the top of the viewport
-- Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
+## Description
 
-Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
+The portfolio showcases my web responsive development skills and experience through five web pages, each with a different focus. The pages are designed to be visually appealing, responsive, and easy to navigate.
+
+The portfolio includes the following pages:
+
+-   A homepage with a brief introduction and a call to action for potential employers or clients to contact me.
+-   A "About" with a bio, and some informations about my professional background, education, and skills.
+-   A "Services" What I do for my Partners?
+-   A "Projects" page with links to some of my recent web development projects, including descriptions and screenshots.
+-   A "Contact" page with a form for potential employers or clients to contact me directly via calendly.
+-   A "Questions" a section to overcome the objections of my future partners and sell my service.
+
+## Features
+
+The legacy portfolio includes several features that demonstrate my web development skills, including:
+
+-   Responsive design that looks great on desktop and mobile devices.
+-   Custom CSS styles and layouts to add visual interest and interactivity.
+-   Semantic HTML and accessible design to ensure compatibility with assistive technologies.
+
+## Usage
+
+To view the legacy portfolio, simply open the `index.html` file in your web browser. You can also view the portfolio online by visiting the [GitHub Pages site](https://z-bj.github.io/Legacy_portolio/) associated with this repository.
+
+## Contributing
+
+While contributions to this project are not currently accepted, feedback is always welcome. If you notice any bugs, have suggestions for improvements, or want to share your thoughts, please feel free to open an issue or contact me directly.
+
+## License
+
+This project is licensed under the [MIT license](https://opensource.org/licenses/MIT), which means you can use, modify, and distribute the code for any purpose, as long as you include the original copyright and license notice.
+
+### [User tory](https://github.com/z-bj/Legacy_portolio/blob/master/User_story.md)
 
