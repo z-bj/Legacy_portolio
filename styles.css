@@ -170,14 +170,14 @@ h4 {
 }
 
 h5 {
-    font-size: 1.333rem;
+    font-size: 1rem;
 }
 
 
 small,
 .text_small {
-    font-size: 0.75rem;
-    font-size: clamp(7px, 14px, 16px);
+    font-size: 65%;
+    /* font-size: clamp(7px, 14px, 16px); */
 
 }
 
